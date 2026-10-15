@@ -1,4 +1,4 @@
-# Project Feedback Video Script (about 60–90 seconds)
+# Project Feedback Video Script 
 
 Hello, my name is Purva Yogesh Pawar, and this is my project, “Cost Structure and Channel-Wise Profitability Analysis for Multi-Channel Restaurants.”
 
