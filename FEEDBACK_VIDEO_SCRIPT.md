@@ -1,6 +1,6 @@
 # Project Feedback Video Script (about 60–90 seconds)
 
-Hello, my name is [your name], and this is my project, “Cost Structure and Channel-Wise Profitability Analysis for Multi-Channel Restaurants.”
+Hello, my name is Purva Yogesh Pawar, and this is my project, “Cost Structure and Channel-Wise Profitability Analysis for Multi-Channel Restaurants.”
 
 The goal of this project is to understand why revenue alone is not enough to evaluate a restaurant sales channel. Different channels may have different food, labor, packaging, platform-fee, overhead and discount costs.
 
